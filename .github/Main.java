@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main{
     public static void main(String[] args) {
 
-    system.out.println("This program will take a numerical grade and print out the letter grade.\n");
+    System.out.println("This program will take a numerical grade and print out the letter grade.\n");
         double grade; 
  
         Scanner myScanner = new Scanner(System.in);
